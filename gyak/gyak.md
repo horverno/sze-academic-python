@@ -3,7 +3,7 @@ Python bevezetés, Python 2 vs Python 3, IDE, egyszerű matematika, változók, 
 
 ## Feladat - Aritmetika
 - Írjunk programot a fontosabb aritmetikai műveletetek szemléltetésére. 
-- *Megoldás*: `01\simpleMath.py` - [link](01\simpleMath.py)
+- *Megoldás*: `01\simpleMath.py` - [link](01/simpleMath.py)
 
 # 2. gyakorlat
 String `II.` (replace, find, count, lower, stb), feltételek (if, elif, else)
@@ -11,7 +11,7 @@ String `II.` (replace, find, count, lower, stb), feltételek (if, elif, else)
 ## Feladat - Fizzbuzz
 - Fizzbuzz: Koncentrációs játék, ahol 1-től kezdve soroljuk a számokat, és minden 3-mal osztahtó szám helyett azt kell mondani, hogy Fizz, az 5-tel oszthatók helyett, hogy Buzz. Ha 3-mal és 5-tel is osztható a szám, akkor azt kell mondani, hogy FizzBuzz. 
 - Írjunk programot, ami ilyen módon számol 1-től 100-ig! 
-- *Megoldás*: `02\fizzbuzz.py` - [link](02\fizzbuzz.py)
+- *Megoldás*: `02\fizzbuzz.py` - [link](02/fizzbuzz.py)
  
 # 3. gyakorlat
 Ciklusok `II.`, listák, join és split (string listává illetve fordítva)
