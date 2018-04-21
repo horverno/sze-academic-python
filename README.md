@@ -9,7 +9,7 @@ Az leckék többnyire magyar nyelvűek. :mortar_board:
 ## Heti bontás
 0. Python telepítése, konfigurálása 
 1. Python bevezetés, Python 2 vs Python 3, IDE, egyszerű matematika, változók, szintaxis, ciklusok `I.`, string `I.` [előadás](eload/ea01.ipynb), [gyakorlat](gyak/gyak.md#1-gyakorlat)
-2. String `II.` (replace, find, count, lower, stb), feltételek (if, elif, else), boolean logika [előadás](eload/ea01.ipynb), [gyakorlat](gyak/gyak.md#2-gyakorlat)
+2. String `II.` (replace, find, count, lower, stb), feltételek (if, elif, else), boolean logika [előadás](eload/ea02.ipynb), [gyakorlat](gyak/gyak.md#2-gyakorlat)
 3. Ciklusok `II.`, listák, join és split (string listává illetve fordítva)
 4. Fájlok, flagek (r, w, b, +), szöveges formátumok, csv, matplotlib `I.`
 5. Hasznos külső library-k: matplotlib `II.`, numpy

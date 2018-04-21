@@ -32,6 +32,61 @@ String `II.` (replace, find, count, lower, stb), feltételek (if, elif, else)
 - Írjunk programot, amely ellenőrzi egy stringről, hogy palindrom-e. Ehhez az kell, hogy a programunk ne vegye figyelembe a kis/nagybetű közti különbséget  illetve a szóközöket. 
 - *Megoldás*: `02/palindrom.py` - [link](02/palindrom.py)
 
+## Feladat - Piramis
+- Írjon programot, amely bekér a felhasználótól egy számot _(ezt külön validálni nem kell)_ és a számnak megfelelő sorú piramis alakzatot rajzol ki `A` betűkből, például:
+``` python
+Kérem a sorok számát: 12
+            A              1
+           A A             2
+          A A A            3
+         A A A A           4
+        A A A A A          5
+       A A A A A A         6
+      A A A A A A A        7
+     A A A A A A A A       8
+    A A A A A A A A A      9
+   A A A A A A A A A A     10
+  A A A A A A A A A A A    11
+ A A A A A A A A A A A A   12
+```
+- *Megoldás*: `02/palindrom.py` - [link](02/palindrom.py)
+
+## Feladat - Szövegpiramis
+- Írjon programot, amely a `Széchenyi István Egyetem, Győr` szöveget jelzi ki, soronként bővülő karakterszámmal:
+```
+S
+Sz
+Szé
+Széc
+Széch
+Széche
+Széchen
+Szécheny
+Széchenyi
+Széchenyi 
+Széchenyi I
+Széchenyi Is
+Széchenyi Ist
+Széchenyi Istv
+Széchenyi Istvá
+Széchenyi István
+Széchenyi István 
+Széchenyi István E
+Széchenyi István Eg
+Széchenyi István Egy
+Széchenyi István Egye
+Széchenyi István Egyet
+Széchenyi István Egyete
+Széchenyi István Egyetem
+Széchenyi István Egyetem,
+Széchenyi István Egyetem, 
+Széchenyi István Egyetem, G
+Széchenyi István Egyetem, Gy
+Széchenyi István Egyetem, Győ
+Széchenyi István Egyetem, Győr
+```
+- *Megoldás*: `02/szechenyi.py` - [link](02/szechenyi.py)
+
 # 3. gyakorlat
 Ciklusok `II.`, listák, join és split (string listává illetve fordítva)
 
