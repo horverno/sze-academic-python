@@ -8,8 +8,8 @@ Az leckék többnyire magyar nyelvűek. :mortar_board:
 
 ## Heti bontás
 0. Python telepítése, konfigurálása 
-1. Python bevezetés, Python 2 vs Python 3, IDE, egyszerű matematika, változók, szintaxis, és logika, ciklusok `I.`, string `I.` [előadás](eload/ea01.ipynb), [gyakorlat](gyak/gyak.md#1-gyakorlat)
-2. String `II.` (replace, find, count, lower, stb), feltételek (if, elif, else) [gyakorlat](gyak/gyak.md#2-gyakorlat)
+1. Python bevezetés, Python 2 vs Python 3, IDE, egyszerű matematika, változók, szintaxis, ciklusok `I.`, string `I.` [előadás](eload/ea01.ipynb), [gyakorlat](gyak/gyak.md#1-gyakorlat)
+2. String `II.` (replace, find, count, lower, stb), feltételek (if, elif, else), boolean logika [előadás](eload/ea01.ipynb), [gyakorlat](gyak/gyak.md#2-gyakorlat)
 3. Ciklusok `II.`, listák, join és split (string listává illetve fordítva)
 4. Fájlok, flagek (r, w, b, +), szöveges formátumok, csv, matplotlib `I.`
 5. Hasznos külső library-k: matplotlib `II.`, numpy
@@ -27,3 +27,6 @@ Az leckék többnyire magyar nyelvűek. :mortar_board:
 - [Official Python 3 Documentation](https://docs.python.org/3/library/index.html)
 - [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
 - [Jupyter notebook](http://jupyter.org/)
+- [Code combat](https://codecombat.com/)
+- [Coursera Python](https://www.coursera.org/courses?languages=en&query=python)
+- [learnPython.org](https://www.learnpython.org/)
