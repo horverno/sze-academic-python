@@ -49,7 +49,7 @@ Kérem a sorok számát: 12
   A A A A A A A A A A A    11
  A A A A A A A A A A A A   12
 ```
-- *Megoldás*: `02/palindrom.py` - [link](02/palindrom.py)
+- *Megoldás*: `02/piramis.py` - [link](02/piramis.py)
 
 ## Feladat - Szövegpiramis
 - Írjon programot, amely a `Széchenyi István Egyetem, Győr` szöveget jelzi ki, soronként bővülő karakterszámmal:
@@ -104,6 +104,10 @@ Függvények, pár további hasznos library (import from ... import ... as szint
 
 # 8.  gyakorlat
 Python: osztályok, objektum orientált programozás
+
+## Feladat - 2d pontok
+- A Python objektum orientált programozást a 2D-s pontok osztályának elkészítésén keresztül mutatjuk be. A Python nyelvben minden osztály (például a lista vagy a szótár is, de a függvények is). Egy `point2d.py` nevű fájlban kezdjük el az osztály kódjának elkészítését.
+- *Megoldás*: `08/point2d.py` - [link](08/point2d.py) (c) Siki Zoltán
 
 # 9.  gyakorlat
 Raspberry Pi: Python GPIO
