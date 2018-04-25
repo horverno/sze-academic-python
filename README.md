@@ -27,3 +27,6 @@ Az leckék többnyire magyar nyelvűek. :mortar_board:
 - [Official Python 3 Documentation](https://docs.python.org/3/library/index.html)
 - [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
 - [Jupyter notebook](http://jupyter.org/)
+- [Code combat](https://codecombat.com/)
+- [Coursera Python](https://www.coursera.org/courses?languages=en&query=python)
+- [learnPython.org](https://www.learnpython.org/)
