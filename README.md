@@ -10,14 +10,14 @@ Az leckék többnyire magyar nyelvűek. :mortar_board:
 0. Python telepítése, konfigurálása 
 1. Python bevezetés, Python 2 vs Python 3, IDE, egyszerű matematika, változók, szintaxis, boolean logika, ciklusok `I.`, string `I.` [előadás](eload/ea01.ipynb), [gyakorlat](gyak/gyak.md#1-gyakorlat)
 2. String `II.` (replace, find, count, lower, stb), feltételek (if, elif, else) [előadás](eload/ea02.ipynb), [gyakorlat](gyak/gyak.md#2-gyakorlat)
-3. Ciklusok `II.`, listák, join és split (string listává illetve fordítva)
-4. Fájlok, flagek (r, w, b, +), szöveges formátumok, csv, matplotlib `I.`
-5. Hasznos külső library-k: matplotlib `II.`, numpy
-6. Dict, kivételkezelés (try / except) 
-7. Függvények, pár további hasznos library (import from ... import ... as szintaktika, time, random, math, regex (regular expressions), os, sys, json)
-8. Python: osztályok, objektum orientált programozás [előadás](eload/ea08.ipynb), [gyakorlat](gyak/gyak.md#8-gyakorlat)
-9. Raspberry Pi: Python GPIO
-10. OpenCV és képfeldolgozás `I.`
+3. Ciklusok `II.`, listák, join és split (string listává illetve fordítva) [gyakorlat](gyak/gyak.md#3-gyakorlat)
+4. Fájlok, flagek (r, w, b, +), szöveges formátumok, csv, matplotlib `I.` [gyakorlat](gyak/gyak.md#4--gyakorlat)
+5. Hasznos külső library-k: matplotlib `II.`, numpy [gyakorlat](gyak/gyak.md#5--gyakorlat)
+6. Dict, kivételkezelés (try / except) [gyakorlat](gyak/gyak.md#6--gyakorlat)
+7. Függvények, pár további hasznos library (import from ... import ... as szintaktika, time, random, math, regex (regular expressions), os, sys, json) [gyakorlat](gyak/gyak.md#7--gyakorlat)
+8. Python: osztályok, objektum orientált programozás [előadás](eload/ea08.ipynb), [gyakorlat](gyak/gyak.md#8--gyakorlat)
+9. Raspberry Pi: Python GPIO [gyakorlat](gyak/gyak.md#9--gyakorlat)
+10. OpenCV és képfeldolgozás `I.` [gyakorlat](gyak/gyak.md#10--gyakorlat)
 
 ## _Used sources_ / Felhasznált források
 - [Shannon Turner: Python lessons repository](https://github.com/shannonturner/python-lessons) MIT license (c) Shannon Turner 2013-2014
