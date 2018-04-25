@@ -8,14 +8,14 @@ Az leckék többnyire magyar nyelvűek. :mortar_board:
 
 ## Heti bontás
 0. Python telepítése, konfigurálása 
-1. Python bevezetés, Python 2 vs Python 3, IDE, egyszerű matematika, változók, szintaxis, ciklusok `I.`, string `I.` [előadás](eload/ea01.ipynb), [gyakorlat](gyak/gyak.md#1-gyakorlat)
-2. String `II.` (replace, find, count, lower, stb), feltételek (if, elif, else), boolean logika [előadás](eload/ea02.ipynb), [gyakorlat](gyak/gyak.md#2-gyakorlat)
+1. Python bevezetés, Python 2 vs Python 3, IDE, egyszerű matematika, változók, szintaxis, boolean logika, ciklusok `I.`, string `I.` [előadás](eload/ea01.ipynb), [gyakorlat](gyak/gyak.md#1-gyakorlat)
+2. String `II.` (replace, find, count, lower, stb), feltételek (if, elif, else) [előadás](eload/ea02.ipynb), [gyakorlat](gyak/gyak.md#2-gyakorlat)
 3. Ciklusok `II.`, listák, join és split (string listává illetve fordítva)
 4. Fájlok, flagek (r, w, b, +), szöveges formátumok, csv, matplotlib `I.`
 5. Hasznos külső library-k: matplotlib `II.`, numpy
 6. Dict, kivételkezelés (try / except) 
 7. Függvények, pár további hasznos library (import from ... import ... as szintaktika, time, random, math, regex (regular expressions), os, sys, json)
-8. Python: osztályok, objektum orientált programozás
+8. Python: osztályok, objektum orientált programozás [előadás](eload/ea08.ipynb), [gyakorlat](gyak/gyak.md#8-gyakorlat)
 9. Raspberry Pi: Python GPIO
 10. OpenCV és képfeldolgozás `I.`
 
@@ -27,6 +27,3 @@ Az leckék többnyire magyar nyelvűek. :mortar_board:
 - [Official Python 3 Documentation](https://docs.python.org/3/library/index.html)
 - [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
 - [Jupyter notebook](http://jupyter.org/)
-- [Code combat](https://codecombat.com/)
-- [Coursera Python](https://www.coursera.org/courses?languages=en&query=python)
-- [learnPython.org](https://www.learnpython.org/)
