@@ -89,6 +89,30 @@ Széchenyi István Egyetem, Győr
 
 # 3. gyakorlat
 Ciklusok `II.`, listák, join és split (string listává illetve fordítva)
+## Feladat - Listák 1
+``` python
+torpok = ['Tudor', 'Vidor', 'Szende', 'Szundi', 'Hapci', 'Kuka', 'Morgó']
+weasleyk = ['Bill', 'Charlie', 'Percy', 'Fred', 'George', 'Ron', 'Ginny']
+zsirafok = ["Abigél", "Benő", "Zsebi"]
+```
+A fentihez hasonlóan állítsd elő az alábbiakat:
+``` python
+"Percy"
+​["Fred", "George"]
+​["Bill", "Charlie", "Percy", "Fred"]
+​"arlie"
+"Gin"
+```
+- Írjon olyan kódot, ami megmondja, hogy Ron hányadik Weasley testvér
+- Ron ábécé sorrendben hányadik Weasley testvér?
+- A három legfiatalabb Weasley testvér közül ábécében ki az első?
+- Írjon olyan kódot, ami lemásolja a weasleyk listát és a másolatból kitörli Percy-t.
+
+## Feladat - Listák, stringek 2
+- Írjon programot, ami beolvas egy szöveget, és megmondja, hány e betű van benne.
+- Írjon programot, ami beolvas egy szöveget, majd egy betűt, és megmondja, a betű hányszor szerepel a szövegben.
+- Írjon olyan programot, ami beolvas két szöveget és kiírja azt, amelyikben több az e betű
+- Írjon olyan programot, ami beolvas egy mondatot, majd kiírja, hány szóból áll
 
 # 4.  gyakorlat
 Fájlok, flagek (r, w, b, +), szöveges formátumok, csv, matplotlib `I.`
