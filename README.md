@@ -7,7 +7,7 @@ Ez az repository a Széchenyi István Egyetem (SZE) különböző Python leckék
 Az leckék többnyire magyar nyelvűek. :mortar_board:
 
 ## Heti bontás
-0. Python telepítése, konfigurálása 
+0. Python telepítése, konfigurálása [leírás](eload/ea00.ipynb)
 1. Python bevezetés, Python 2 vs Python 3, IDE, egyszerű matematika, változók, szintaxis, boolean logika, ciklusok `I.`, string `I.` [előadás](eload/ea01.ipynb), [gyakorlat](gyak/gyak.md#1-gyakorlat)
 2. String `II.` (replace, find, count, lower, stb), feltételek (if, elif, else) [előadás](eload/ea02.ipynb), [gyakorlat](gyak/gyak.md#2-gyakorlat)
 3. Ciklusok `II.`, listák, join és split (string listává illetve fordítva) [előadás](eload/ea03.ipynb), [gyakorlat](gyak/gyak.md#3-gyakorlat)
