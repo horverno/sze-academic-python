@@ -17,7 +17,7 @@ Az leckék többnyire magyar nyelvűek. :mortar_board:
 |3.| Ciklusok `II.`, listák, join és split (string listává illetve fordítva) | [előadás gihub](eload/ea03.ipynb), [előadás jupyter](http://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/eload/ea03.ipynb), [gyakorlat](gyak/gyak.md#3-gyakorlat)
 |4.| Fájlok, flagek (r, w, b, +), szöveges formátumok, csv, matplotlib `I.` | [előadás gihub](eload/ea04.ipynb), [előadás jupyter](http://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/eload/ea04.ipynb), [gyakorlat](gyak/gyak.md#4--gyakorlat)
 |5.| Hasznos külső library-k: matplotlib `II.`, numpy | [gyakorlat](gyak/gyak.md#5--gyakorlat)
-|6.| Dict, kivételkezelés (try / except) | [gyakorlat](gyak/gyak.md#6--gyakorlat)
+|6.| Dict, tuple, kivételkezelés (try / except) | [előadás gihub](eload/ea06.ipynb), [előadás jupyter](http://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/eload/ea06.ipynb), [gyakorlat](gyak/gyak.md#6--gyakorlat)
 |7.| Függvények, pár további hasznos library (import from ... import ... as szintaktika, time, random, math, regex (regular expressions), os, sys, json) | [gyakorlat](gyak/gyak.md#7--gyakorlat)
 |8.| Python: osztályok, objektum orientált programozás |[előadás github](eload/ea08.ipynb), [előadás jupyter](http://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/eload/ea08.ipynb), [gyakorlat](gyak/gyak.md#8--gyakorlat)
 |9.| Raspberry Pi: Python GPIO | [gyakorlat](gyak/gyak.md#9--gyakorlat)
