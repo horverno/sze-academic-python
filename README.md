@@ -8,7 +8,6 @@ Az leckék többnyire magyar nyelvűek. :mortar_board:
 
 ## Heti bontás
 
-## Heti bontás
 |Hét | Tananyag | Link
 |-------------|-------------|:---------:
 |0.| Python telepítése, konfigurálása | [leírás](eload/ea00.md)
