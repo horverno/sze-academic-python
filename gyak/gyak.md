@@ -116,6 +116,45 @@ A fentihez hasonlóan állítsd elő az alábbiakat:
 
 # 4.  gyakorlat
 Fájlok, flagek (r, w, b, +), szöveges formátumok, csv, matplotlib `I.`
+## Feladat - Magyarország helységei plot
+- *Megoldás*: `04/moplot.py` - [link](04/moplot.py)
+- Írjon programot, ami beolvassa Magyaroszág helységeit a `mohely.csv` fájlból, majd megjeleníti azokat
+- Mivel több, mint 3000 darab település van, elég minden 5.-et kiplottolni, így gyorsabban megjeleníti
+- A `fok:perc.századperc`-ből a `fok + (perc + (század / 60)) / 60` képlettel lehet decimális értéket számolni
+- Például Győr északi szélessége `47:41.28`, ez decimálisan: `47.691`
+- A `mohely.csv` tartalma nagyjából így néz ki:
+	``` python
+	Név;KeletiHossz;ÉszakiSzél
+	Aba;18:31.49;47:02.06
+	Abádszalók;20:35.94;47:28.48
+	Abaliget;18:07.09;46:08.63
+	...
+	Zsujta;21:16.80;48:30.04
+	Zsurk;22:13.40;48:23.93
+	```
+- Így nézzen ki a plot:
+![img-01](04/ilyenlegyen01.png)
+![img-02](04/ilyenlegyen02.png)
+
+
+## Feladat - Magyarország helységei scatter
+- *Megoldás*: `04/moscatter.py` - [link](04/moscatter.py)
+- Fejlessze tovább a programot, `scatter` plottal, ami a népesség arányában jelenít meg különböző méretű köröket 
+- Az adatokat `monepesseg.csv`-ből olvassa be, ez csak a legnagyobb 88 települést tartalmazza
+- A `monepesseg.csv` tartalma nagyjából így néz ki:
+	``` python
+	Budapest;1752704
+	Debrecen;201981
+	Szeged;161137
+	Miskolc;157177
+	Pécs;144675
+	Györ;129301
+	...
+	Tapolca;15232
+	Balassagyarmat;15058
+	```
+- Így nézzen ki a plot:
+![img-03](04/ilyenlegyen03.png)
 
 # 5.  gyakorlat
 Hasznos külső library-k: matplotlib `II.`, numpy

@@ -34,3 +34,9 @@ Az leckék többnyire magyar nyelvűek. :mortar_board:
 - [Code combat](https://codecombat.com/)
 - [Coursera Python](https://www.coursera.org/courses?languages=en&query=python)
 - [learnPython.org](https://www.learnpython.org/)
+
+## _Courses at the university_ / Egyetemi tárgyak
+- GKLB_INTM038 Gépi látás
+- GKLB_INTM020 Mikroelektromechanikai rendszerek
+- NGB_IN040_1 Szimulációs technikák
+- NGB_IN039_1 Tudományos szoftverek
