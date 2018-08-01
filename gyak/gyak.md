@@ -5,6 +5,19 @@ Python bevezetés, Python 2 vs Python 3, IDE, egyszerű matematika, változók, 
 - Írjunk programot a fontosabb aritmetikai műveletetek szemléltetésére. 
 - *Megoldás*: `01/simpleMath.py` - [link](01/simpleMath.py)
 
+## Feladat - Bank
+- Írjunk programot, amely a lenti mondatokat írja ki, ciklus segítségével. 
+- *Megoldás*: `01/bank.py` - [link](01/bank.py)
+
+```
+2018: 100.00 Ft van a bankban, 1.1-es kamattal
+2019: 110.00 Ft van a bankban, 1.1-es kamattal
+2020: 121.00 Ft van a bankban, 1.1-es kamattal
+2021: 133.10 Ft van a bankban, 1.1-es kamattal
+2022: 146.41 Ft van a bankban, 1.1-es kamattal
+2023: 161.05 Ft van a bankban, 1.1-es kamattal
+```
+
 # 2. gyakorlat
 String `II.` (replace, find, count, lower, stb), feltételek (if, elif, else)
 
