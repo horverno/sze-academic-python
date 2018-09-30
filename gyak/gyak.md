@@ -7,7 +7,6 @@ Python bevezetés, Python 2 vs Python 3, IDE, egyszerű matematika, változók, 
 
 ## Feladat - Bank
 - Írjunk programot, amely a lenti mondatokat írja ki, ciklus segítségével. 
-- *Megoldás*: `01/bank.py` - [link](01/bank.py)
 
 ```
 2018: 100.00 Ft van a bankban, 1.1-es kamattal
@@ -17,6 +16,7 @@ Python bevezetés, Python 2 vs Python 3, IDE, egyszerű matematika, változók, 
 2022: 146.41 Ft van a bankban, 1.1-es kamattal
 2023: 161.05 Ft van a bankban, 1.1-es kamattal
 ```
+- *Megoldás*: `01/bank.py` - [link](01/bank.py)
 
 # 2. gyakorlat
 String `II.` (replace, find, count, lower, stb), feltételek (if, elif, else)
@@ -102,6 +102,7 @@ Széchenyi István Egyetem, Győr
 
 # 3. gyakorlat
 Ciklusok `II.`, listák, join és split (string listává illetve fordítva)
+
 ## Feladat - Listák 1
 ``` python
 torpok = ['Tudor', 'Vidor', 'Szende', 'Szundi', 'Hapci', 'Kuka', 'Morgó']
@@ -127,6 +128,26 @@ A fentihez hasonlóan állítsd elő az alábbiakat:
 - Írjon olyan programot, ami beolvas két szöveget és kiírja azt, amelyikben több az e betű
 - Írjon olyan programot, ami beolvas egy mondatot, majd kiírja, hány szóból áll
 
+## Feladat - Duplum törlés
+- Írjunk olyan python kódot, amely kitöröli egy listából a duplumokat pl. `a = [10,20,30,20,10,50,60,40,80,50,40]`
+- *Megoldás*: `03/duplum-torol.py` - [link](03/duplum-torol.py)
+
+## Feladat - Kisebb, mint
+- Írjunk python kódot, amely a beolvasott szamnál kisebb elemeket írja csak ki az adott listából pl. `a = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]`
+- *Megoldás*: `03/kisebb-mint.py` - [link](03/kisebb-mint.py)
+
+## Feladat - Legnagyobb szám
+- Írassuk ki a lista legnagyobb elemet pl. `list = [1, 3, 5, 2, 4, 8, 0]`
+- *Megoldás*: `03/legnagyobb-szam.py` - [link](03/legnagyobb-szam.py)
+
+## Feladat - Lista különbség
+- Jelenítsük meg két lista közötti különbségeket `list1 = [1, 2, 3, 4, "Alma", "Korte", "Szilva", "Barack"]` `list2 = [1, 2, "Korte"]`
+- *Megoldás*: `03/lista-kulonbseg.py` - [link](03/lista-kulonbseg.py)
+
+## Feladat - Sztring szeletelés
+- Vágjunk szét egy sztringet a vesszök mentén
+- *Megoldás*: `03/split.py` - [link](03/split.py)
+
 # 4.  gyakorlat
 Fájlok, flagek (r, w, b, +), szöveges formátumok, csv, matplotlib `I.`
 ## Feladat - Magyarország helységei plot
@@ -151,7 +172,6 @@ Fájlok, flagek (r, w, b, +), szöveges formátumok, csv, matplotlib `I.`
 
 
 ## Feladat - Magyarország helységei scatter
-- *Megoldás*: `04/moscatter.py` - [link](04/moscatter.py)
 - Fejlessze tovább a programot, `scatter` plottal, ami a népesség arányában jelenít meg különböző méretű köröket 
 - Az adatokat `monepesseg.csv`-ből olvassa be, ez csak a legnagyobb 88 települést tartalmazza
 - A `monepesseg.csv` tartalma nagyjából így néz ki:
@@ -168,6 +188,7 @@ Fájlok, flagek (r, w, b, +), szöveges formátumok, csv, matplotlib `I.`
 	```
 - Így nézzen ki a plot:
 ![img-03](04/ilyenlegyen03.png)
+- *Megoldás*: `04/moscatter.py` - [link](04/moscatter.py)
 
 # 5.  gyakorlat
 Hasznos külső library-k: matplotlib `II.`, numpy
@@ -194,3 +215,4 @@ OpenCV és képfeldolgozás `I.`
 ## _Used sources_ / Felhasznált források
 - [Shannon Turner: Python lessons repository](https://github.com/shannonturner/python-lessons) MIT license (c) Shannon Turner 2013-2014
 - [Siki Zoltán: Python mogyoróhéjban](http://www.agt.bme.hu/gis/python/python_oktato.pdf) GNU FDL license (c) Siki Zoltán
+- [BME AUT](https://github.com/bmeaut) MIT License Copyright (c) BME AUT 2016-2018
