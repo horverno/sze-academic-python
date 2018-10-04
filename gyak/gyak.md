@@ -193,6 +193,28 @@ Fájlok, flagek (r, w, b, +), szöveges formátumok, csv, matplotlib `I.`
 # 5.  gyakorlat
 Hasznos külső library-k: matplotlib `II.`, numpy
 
+## Feladat - Monte-Carlo integrálás
+
+Monte-Carlo integrálás felhasználásával közelítsük a PI értékét.
+
+A sík [0;1]x[0;1] tartományán belül vegyünk fel egyenletes eloszlás mellett véletlenszerű pontokat. Nézzük meg, hogy a felvett koordináták közül melyek esnek az origó középpontú, 1 sugarú negyedkör belsejébe. A körcikkbe eső pontok és az összes felvett pont arányával súlyozott [0;1]x[0;1] síkrészlet területe a PI/4 értékét fogja közelíteni. A Közelítés annál pontosabb, minél több véletlenszerű pontot veszünk fel.
+
+[Megoldás](05/1_a.py)
+
+Vizsgáljuk meg az eredményt több különböző koordináta darabszám mellett. Pl 10, 100, 1000, 10000, 100000, és a különböző eredményeket ábrázoljuk pont diagramon.
+
+Vizsgáljuk meg, hogy minden pont darabszám esetén több mérést végezve, hogyan alakul a mérések pontatlansága. Ábrázoljuk pont diagramon a méréseket.
+
+[Megoldás](05/1_b.py)
+
+## Feladat - Numerikus deriválás
+
+Numerikus deriválási módszer segítségével nézzük meg, hogy egy diszkrét függvénynek hol vannak a lokális maximum és minimum pontjai.
+
+Egy F függvény esetén az F(x) pontban a derivált értékét közelítsük az F'(x) = F(x-1) - F(x+1) értékkel. Ügyeljünk rá, hogy a függvény széleinél már nem lesznek minden irányban szomszédos értékek. A derivált függvényt és az eredeti függvényt jelenítsük meg pont diagram segítségével. Megfigyelhető, hogy a maximum és minimum helyek ott vannak, ahol a derivált metszi a vízszintes tengelyt.
+
+[Megoldás](05/2.py)
+
 # 6.  gyakorlat
 Dict, kivételkezelés (try / except) 
 
