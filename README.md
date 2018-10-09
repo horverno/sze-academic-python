@@ -11,16 +11,18 @@ Az leckék többnyire magyar nyelvűek. :mortar_board:
 |Hét | Tananyag | Link
 |-------------|-------------|:---------:
 |0.| Python telepítése, konfigurálása | [leírás](eload/ea00.md)
-|1.| Python bevezetés, Python 2 vs Python 3, IDE, egyszerű matematika, változók, szintaxis, boolean logika, ciklusok `I.`, string `I.` | [előadás gihub](eload/ea01.ipynb), [előadás jupyter](http://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/eload/ea01.ipynb), [gyakorlat](gyak/gyak.md#1-gyakorlat) 
-|2.| String `II.` (replace, find, count, lower, stb), feltételek (if, elif, else) | [előadás gihub](eload/ea02.ipynb), [előadás jupyter](http://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/eload/ea02.ipynb), [gyakorlat](gyak/gyak.md#2-gyakorlat)
-|3.| Ciklusok `II.`, listák, join és split (string listává illetve fordítva) | [előadás gihub](eload/ea03.ipynb), [előadás jupyter](http://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/eload/ea03.ipynb), [gyakorlat](gyak/gyak.md#3-gyakorlat)
-|4.| Fájlok, flagek (r, w, b, +), szöveges formátumok, csv, matplotlib `I.` | [előadás gihub](eload/ea04.ipynb), [előadás jupyter](http://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/eload/ea04.ipynb), [gyakorlat](gyak/gyak.md#4--gyakorlat)
-|5.| Hasznos külső library-k: matplotlib `II.`, numpy | [előadás gihub](eload/ea05.ipynb), [előadás jupyter](http://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/eload/ea05.ipynb), [gyakorlat](gyak/gyak.md#5--gyakorlat)
-|6.| Dict, tuple, kivételkezelés (try / except) | [előadás gihub](eload/ea06.ipynb), [előadás jupyter](http://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/eload/ea06.ipynb), [gyakorlat](gyak/gyak.md#6--gyakorlat)
-|7.| Függvények, pár további hasznos library (import from ... import ... as szintaktika, time, random, math, regex (regular expressions), os, sys, json) | [gyakorlat](gyak/gyak.md#7--gyakorlat)
+|1.| Python bevezetés, Python 2 vs Python 3, IDE, egyszerű matematika, változók, szintaxis, boolean logika, ciklusok `I.`, string `I.` | [előadás github](eload/ea01.ipynb), [előadás jupyter](http://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/eload/ea01.ipynb), [gyakorlat](gyak/gyak.md#1-gyakorlat) 
+|2.| String `II.` (replace, find, count, lower, stb), feltételek (if, elif, else) | [előadás github](eload/ea02.ipynb), [előadás jupyter](http://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/eload/ea02.ipynb), [gyakorlat](gyak/gyak.md#2-gyakorlat)
+|3.| Ciklusok `II.`, listák, join és split (string listává illetve fordítva) | [előadás github](eload/ea03.ipynb), [előadás jupyter](http://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/eload/ea03.ipynb), [gyakorlat](gyak/gyak.md#3-gyakorlat)
+|4.| Fájlok, flagek (r, w, b, +), szöveges formátumok, csv, matplotlib `I.` | [előadás github](eload/ea04.ipynb), [előadás jupyter](http://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/eload/ea04.ipynb), [gyakorlat](gyak/gyak.md#4--gyakorlat)
+|5.| Hasznos külső library-k: matplotlib `II.`, numpy | [előadás github](eload/ea05.ipynb), [előadás jupyter](http://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/eload/ea05.ipynb), [gyakorlat](gyak/gyak.md#5--gyakorlat)
+|6.| Dict, tuple, kivételkezelés (try / except) | [előadás github](eload/ea06.ipynb), [előadás jupyter](http://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/eload/ea06.ipynb), [gyakorlat](gyak/gyak.md#6--gyakorlat)
+|7.| Függvények, pár további hasznos library (import from ... import ... as szintaktika, time, random, math, regex (regular expressions), os, sys, json) | [előadás github](eload/ea07.ipynb), [előadás jupyter](http://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/eload/ea07.ipynb), [gyakorlat](gyak/gyak.md#7--gyakorlat)
 |8.| Python: osztályok, objektum orientált programozás |[előadás github](eload/ea08.ipynb), [előadás jupyter](http://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/eload/ea08.ipynb), [gyakorlat](gyak/gyak.md#8--gyakorlat)
 |9.| Raspberry Pi: Python GPIO | [gyakorlat](gyak/gyak.md#9--gyakorlat)
 |10.| OpenCV és képfeldolgozás `I.` bevezető | [gyakorlat](gyak/gyak.md#10--gyakorlat)
+|+| Lineáris és homogén transzformációk | [előadás github](eload/ealeshtranszfromaciok.ipynb), [előadás jupyter](http://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/eload/ealeshtranszfromaciok.ipynb)
+|+| Görbeillesztés | [előadás github](eload/eafitting.ipynb), [előadás jupyter](http://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/eload/eafitting.ipynb)
 
 ## _Used sources_ / Felhasznált források
 - [Shannon Turner: Python lessons repository](https://github.com/shannonturner/python-lessons) MIT license (c) Shannon Turner 2013-2014
