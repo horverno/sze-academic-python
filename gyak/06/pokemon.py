@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 
-# A CSV fájl sorainak beolvasása és tördelése a szeparál karakterek mentén.
+# A CSV fájl sorainak beolvasása és tördelése a szeparáló karakterek mentén.
 lines = [line.strip().split(",") for line in open("Pokemon.csv", "r").readlines()]
 
 # A pokémonok adatainak tárolására szolgáló lista. Minden pokémont kulcs-érték párokkal fogunk tárolni.
