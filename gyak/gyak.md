@@ -218,6 +218,16 @@ Egy F függvény esetén az F(x) pontban a derivált értékét közelítsük az
 # 6.  gyakorlat
 Dict, kivételkezelés (try / except) 
 
+Olvassuk be "kézzel" a [Pokemon.csv](06/Pokemon.csv) fájlt és a pokémonok adatait tároljuk el olyan listába, ahol kulcs-érték párokkal rögzítjük az értékeket.
+
+Diagram segítségével hasonlítsuk össze a legendás és nem legendás pokémonok támadási és védekezési erejét.
+
+Készítsünk tuple-t, mely tartalmazza azon pokémonok nevét, amelyek elsődleges típusa a víz és gyorsasági értéke legalább 100 és maximum 150. Jelenítsük meg a kiválasztott pokémonok neveit, szóközzel elválasztva.
+
+Kulcs-érték párba rendezve tároljuk el a pokémonok neveit (érték) a pokémonok elsődleges típusa szerint (kulcs). Ábrázoljuk oszlopdiagram segítségével, hogy az egyes típusokba hány pokémon tartozik.
+
+[Megoldás](06/pokemon.py)
+
 # 7.  gyakorlat
 Függvények, pár további hasznos library (import from ... import ... as szintaktika, time, random, math, regex (regular expressions), os, sys, json)
 
