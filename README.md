@@ -20,7 +20,7 @@ Az leckék többnyire magyar nyelvűek. :mortar_board:
 |7.| Függvények, pár további hasznos library (import from ... import ... as szintaktika, time, random, math, regex (regular expressions), os, sys, json) | [előadás github](eload/ea07.ipynb), [előadás jupyter](http://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/eload/ea07.ipynb), [gyakorlat](gyak/gyak.md#7--gyakorlat)
 |8.| Python: osztályok, objektum orientált programozás |[előadás github](eload/ea08.ipynb), [előadás jupyter](http://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/eload/ea08.ipynb), [gyakorlat](gyak/gyak.md#8--gyakorlat)
 |9.| Raspberry Pi: Python GPIO | [gyakorlat](gyak/gyak.md#9--gyakorlat)
-|10.| OpenCV és képfeldolgozás `I.` bevezető | [gyakorlat](gyak/gyak.md#10--gyakorlat)
+|10.| OpenCV és képfeldolgozás `I.` bevezető | [gyakorlat](gyak/gyak.md#10--gyakorlat) [előadás github](eload/ea10.ipynb), [előadás jupyter](http://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/eload/ea10.ipynb)
 |+| Lineáris és homogén transzformációk | [előadás github](eload/ealeshtranszfromaciok.ipynb), [előadás jupyter](http://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/eload/ealeshtranszfromaciok.ipynb)
 |+| Görbeillesztés | [előadás github](eload/eafitting.ipynb), [előadás jupyter](http://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/eload/eafitting.ipynb)
 
