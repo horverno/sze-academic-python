@@ -234,6 +234,17 @@ Függvények, pár további hasznos library (import from ... import ... as szint
 # 8.  gyakorlat
 Python: osztályok, objektum orientált programozás
 
+## Feladat - Háromszög
+Készítsen Python osztályt háromszög tárolására. Az osztály kezelje a háromszöget oldalhosszai alapján. Legyen lehetőség lekérdezni a háromszög kerületét, területét, szerkeszthetőségét és a háromszögbe írható kör sugarát.
+
+[Megoldás](08/haromszog.py)
+
+## Feladat - Római számok
+
+Készítsen Python osztályt római számok kezelésére. Az osztály példányosítás során várjon egy arab (egész) számot. Belső változókban tárolja az eredeti arab számot és a római megfelelőjét. Gondoskodjon róla, hogy ha egy római számot paraméterül adunk egy print metódusnak, akkor a kimeneten a római szám jelenjen meg. Valósítsa meg a 4 alapvető aritmetikai műveletet a római számok esetén.
+
+[Megoldás](08/romai.py)
+
 ## Feladat - 2d pontok
 - A Python objektum orientált programozást a 2D-s pontok osztályának elkészítésén keresztül mutatjuk be. A Python nyelvben minden osztály (például a lista vagy a szótár is, de a függvények is). Egy `point2d.py` nevű fájlban kezdjük el az osztály kódjának elkészítését.
 - *Megoldás*: `08/point2d.py` - [link](08/point2d.py) (c) Siki Zoltán
