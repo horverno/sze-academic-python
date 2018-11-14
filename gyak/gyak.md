@@ -259,6 +259,7 @@ Készítsen Python osztályt római számok kezelésére. Az osztály példányo
 Raspberry Pi: Python GPIO
 
 ## Feladat - Karakter kijelzés led mátrixra
+- Jelezzük ki a `SZE` karaktereit egymás után kis szünettel, led mátrixra.
 - *Megoldás*: `character_display.py` - [link](09/character_display.py)
 ## Feladat - Led mátrix szín kijelzés
 - *Megoldás*: `colour_cycle.py` - [link](09/colour_cycle.py)
@@ -273,7 +274,7 @@ Raspberry Pi: Python GPIO
 ## Feladat - Futó szöveg led mátrixra
 - *Megoldás*: `text_scroll.py` - [link](09/text_scroll.py)
 ## Feladat - IP cím kijelzése led mátrixra
-- *Megoldás*: `ip_display.py` - [link](ip_display.py)
+- *Megoldás*: `ip_display.py` - [link](09/ip_display.py)
 
 
 # 10.  gyakorlat
