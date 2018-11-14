@@ -195,38 +195,45 @@ Hasznos külső library-k: matplotlib `II.`, numpy
 
 ## Feladat - Monte-Carlo integrálás
 
-Monte-Carlo integrálás felhasználásával közelítsük a PI értékét.
+- Monte-Carlo integrálás felhasználásával közelítsük a PI értékét.
 
-A sík [0;1]x[0;1] tartományán belül vegyünk fel egyenletes eloszlás mellett véletlenszerű pontokat. Nézzük meg, hogy a felvett koordináták közül melyek esnek az origó középpontú, 1 sugarú negyedkör belsejébe. A körcikkbe eső pontok és az összes felvett pont arányával súlyozott [0;1]x[0;1] síkrészlet területe a PI/4 értékét fogja közelíteni. A Közelítés annál pontosabb, minél több véletlenszerű pontot veszünk fel.
+- A sík [0;1]x[0;1] tartományán belül vegyünk fel egyenletes eloszlás mellett véletlenszerű pontokat. Nézzük meg, hogy a felvett koordináták közül melyek esnek az origó középpontú, 1 sugarú negyedkör belsejébe. A körcikkbe eső pontok és az összes felvett pont arányával súlyozott [0;1]x[0;1] síkrészlet területe a PI/4 értékét fogja közelíteni. A Közelítés annál pontosabb, minél több véletlenszerű pontot veszünk fel.
 
-[Megoldás](05/1_a.py)
+- [Megoldás](05/1_a.py)
 
-Vizsgáljuk meg az eredményt több különböző koordináta darabszám mellett. Pl 10, 100, 1000, 10000, 100000, és a különböző eredményeket ábrázoljuk pont diagramon.
+- Vizsgáljuk meg az eredményt több különböző koordináta darabszám mellett. Pl 10, 100, 1000, 10000, 100000, és a különböző eredményeket ábrázoljuk pont diagramon.
 
-Vizsgáljuk meg, hogy minden pont darabszám esetén több mérést végezve, hogyan alakul a mérések pontatlansága. Ábrázoljuk pont diagramon a méréseket.
+- Vizsgáljuk meg, hogy minden pont darabszám esetén több mérést végezve, hogyan alakul a mérések pontatlansága. Ábrázoljuk pont diagramon a méréseket.
 
-[Megoldás](05/1_b.py)
+- [Megoldás](05/1_b.py)
 
 ## Feladat - Numerikus deriválás
 
-Numerikus deriválási módszer segítségével nézzük meg, hogy egy diszkrét függvénynek hol vannak a lokális maximum és minimum pontjai.
+- Numerikus deriválási módszer segítségével nézzük meg, hogy egy diszkrét függvénynek hol vannak a lokális maximum és minimum pontjai.
 
-Egy F függvény esetén az F(x) pontban a derivált értékét közelítsük az F'(x) = F(x-1) - F(x+1) értékkel. Ügyeljünk rá, hogy a függvény széleinél már nem lesznek minden irányban szomszédos értékek. A derivált függvényt és az eredeti függvényt jelenítsük meg pont diagram segítségével. Megfigyelhető, hogy a maximum és minimum helyek ott vannak, ahol a derivált metszi a vízszintes tengelyt.
+- Egy F függvény esetén az F(x) pontban a derivált értékét közelítsük az F'(x) = F(x-1) - F(x+1) értékkel. Ügyeljünk rá, hogy a függvény széleinél már nem lesznek minden irányban szomszédos értékek. A derivált függvényt és az eredeti függvényt jelenítsük meg pont diagram segítségével. Megfigyelhető, hogy a maximum és minimum helyek ott vannak, ahol a derivált metszi a vízszintes tengelyt.
 
-[Megoldás](05/2.py)
+- [Megoldás](05/2.py)
 
 # 6.  gyakorlat
 Dict, kivételkezelés (try / except) 
 
-Olvassuk be "kézzel" a [Pokemon.csv](06/Pokemon.csv) fájlt és a pokémonok adatait tároljuk el olyan listába, ahol kulcs-érték párokkal rögzítjük az értékeket.
+## Feladat - Pokemon
 
-Diagram segítségével hasonlítsuk össze a legendás és nem legendás pokémonok támadási és védekezési erejét.
+- Olvassuk be "kézzel" a [Pokemon.csv](06/Pokemon.csv) fájlt és a pokémonok adatait tároljuk el olyan listába, ahol kulcs-érték párokkal rögzítjük az értékeket.
 
-Készítsünk tuple-t, mely tartalmazza azon pokémonok nevét, amelyek elsődleges típusa a víz és gyorsasági értéke legalább 100 és maximum 150. Jelenítsük meg a kiválasztott pokémonok neveit, szóközzel elválasztva.
+- Diagram segítségével hasonlítsuk össze a legendás és nem legendás pokémonok támadási és védekezési erejét.
 
-Kulcs-érték párba rendezve tároljuk el a pokémonok neveit (érték) a pokémonok elsődleges típusa szerint (kulcs). Ábrázoljuk oszlopdiagram segítségével, hogy az egyes típusokba hány pokémon tartozik.
+- Készítsünk tuple-t, mely tartalmazza azon pokémonok nevét, amelyek elsődleges típusa a víz és gyorsasági értéke legalább 100 és maximum 150. Jelenítsük meg a kiválasztott pokémonok neveit, szóközzel elválasztva.
 
-[Megoldás](06/pokemon.py)
+- Kulcs-érték párba rendezve tároljuk el a pokémonok neveit (érték) a pokémonok elsődleges típusa szerint (kulcs). Ábrázoljuk oszlopdiagram segítségével, hogy az egyes típusokba hány pokémon tartozik.
+
+- *Megoldás*: `pokemon.py` - [link](06/pokemon.py)
+
+- Így nézzen ki a plot:
+![img-poke1](06/ilyenlegyen01.png)
+![img-poke2](06/ilyenlegyen02.png)
+
 
 # 7.  gyakorlat
 Függvények, pár további hasznos library (import from ... import ... as szintaktika, time, random, math, regex (regular expressions), os, sys, json)
@@ -240,7 +247,6 @@ Készítsen Python osztályt háromszög tárolására. Az osztály kezelje a h�
 [Megoldás](08/haromszog.py)
 
 ## Feladat - Római számok
-
 Készítsen Python osztályt római számok kezelésére. Az osztály példányosítás során várjon egy arab (egész) számot. Belső változókban tárolja az eredeti arab számot és a római megfelelőjét. Gondoskodjon róla, hogy ha egy római számot paraméterül adunk egy print metódusnak, akkor a kimeneten a római szám jelenjen meg. Valósítsa meg a 4 alapvető aritmetikai műveletet a római számok esetén.
 
 [Megoldás](08/romai.py)
@@ -251,6 +257,24 @@ Készítsen Python osztályt római számok kezelésére. Az osztály példányo
 
 # 9.  gyakorlat
 Raspberry Pi: Python GPIO
+
+## Feladat - Karakter kijelzés led mátrixra
+- *Megoldás*: `character_display.py` - [link](09/character_display.py)
+## Feladat - Led mátrix szín kijelzés
+- *Megoldás*: `colour_cycle.py` - [link](09/colour_cycle.py)
+## Feladat - Orientáció kijelzése
+- Jelezzük ki a giroszkóp és a gyorsulásmérő adataiból számolt `yaw` függőleges tengelyen történő elfordulást.
+- A program futásának végét a joystick bármely módon való megnynomása jelentse.
+- *Megoldás*: `orientation.py` - [link](09/orientation.py)
+## Feladat - Orientáció kijelzése ploton
+- Az előző feladathoz hasonlóan giroszkóp és a gyorsulásmérő adataiból számolt `yaw` érttéket jelezzük ki, csak most `plot` segítségével.
+- A program futásának végét most is a joystick bármely módon való megnynomása jelentse.
+- *Megoldás*: `orientation_plt.py` - [link](09/orientation_plt.py)
+## Feladat - Futó szöveg led mátrixra
+- *Megoldás*: `text_scroll.py` - [link](09/text_scroll.py)
+## Feladat - IP cím kijelzése led mátrixra
+- *Megoldás*: `ip_display.py` - [link](ip_display.py)
+
 
 # 10.  gyakorlat
 OpenCV és képfeldolgozás `I.`

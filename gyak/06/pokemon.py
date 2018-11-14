@@ -16,6 +16,9 @@ for pokemon in pokemons:
         plt.plot(int(pokemon["Attack"]), int(pokemon["Defense"]), "rD")
     else:
         plt.plot(int(pokemon["Attack"]), int(pokemon["Defense"]), "b^")
+plt.title("Piros: legendás - Kék: nem")
+plt.xlabel("Támadás")
+plt.ylabel("Védekezés")
 plt.show()
 
 # Azon vizi pokémonok neveit tartalmazó tuple, melyek sebessége 100 és 150 közé esik.
