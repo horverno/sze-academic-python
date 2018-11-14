@@ -1,22 +1,22 @@
-import time
-import socket
-from sense_hat import SenseHat
-
-def get_ip_address():
-    ip_address = '';
-    s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
-    s.connect(("8.8.8.8",80))
-    ip_address = s.getsockname()[0]
-    s.close()
-    return ip_address
+from sense_hat import SenseHat # vagy import sense_hat as sh és akkor SenseHat() helyett pl sh.SenseHat()
+from time import sleep
 
 sense = SenseHat()
-for _ in range(10):
-    sense.show_message("IP:", text_colour=(255, 0, 0))
-    time.sleep(1)
-    try:
-        sense.show_message(get_ip_address())
-    except:
-        print("exception")
-    time.sleep(1)
-print(get_ip_address())
+
+red = (255, 0, 0)
+blue = (0, 0, 255)
+green = (0, 255, 0)
+white = (255, 255, 255)
+yellow = (255, 255, 0)
+
+sense.show_letter("S", red)
+sleep(1)
+sense.show_letter("Z", blue)
+sleep(1)
+sense.show_letter("E", green)
+sleep(1)
+sense.show_letter("E", white)
+sleep(1)
+sense.show_letter(".", red)
+sleep(1)
+sense.clear()
