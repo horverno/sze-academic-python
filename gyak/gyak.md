@@ -148,7 +148,7 @@ A fentihez hasonlóan állítsd elő az alábbiakat:
 - Vágjunk szét egy sztringet a vesszök mentén
 - *Megoldás*: `03/split.py` - [link](03/split.py)
 
-# 4.  gyakorlat
+# 4. gyakorlat
 Fájlok, flagek (r, w, b, +), szöveges formátumok, csv, matplotlib `I.`
 ## Feladat - Magyarország helységei plot
 - *Megoldás*: `04/moplot.py` - [link](04/moplot.py)
@@ -190,7 +190,7 @@ Fájlok, flagek (r, w, b, +), szöveges formátumok, csv, matplotlib `I.`
 ![img-03](04/ilyenlegyen03.png)
 - *Megoldás*: `04/moscatter.py` - [link](04/moscatter.py)
 
-# 5.  gyakorlat
+# 5. gyakorlat
 Hasznos külső library-k: matplotlib `II.`, numpy
 
 ## Feladat - Monte-Carlo integrálás
@@ -215,7 +215,7 @@ Hasznos külső library-k: matplotlib `II.`, numpy
 
 - [Megoldás](05/2.py)
 
-# 6.  gyakorlat
+# 6. gyakorlat
 Dict, kivételkezelés (try / except) 
 
 ## Feladat - Pokemon
@@ -235,10 +235,10 @@ Dict, kivételkezelés (try / except)
 ![img-poke2](06/ilyenlegyen02.png)
 
 
-# 7.  gyakorlat
+# 7. gyakorlat
 Függvények, pár további hasznos library (import from ... import ... as szintaktika, time, random, math, regex (regular expressions), os, sys, json)
 
-# 8.  gyakorlat
+# 8. gyakorlat
 Python: osztályok, objektum orientált programozás
 
 ## Feladat - Háromszög
@@ -255,7 +255,7 @@ Készítsen Python osztályt római számok kezelésére. Az osztály példányo
 - A Python objektum orientált programozást a 2D-s pontok osztályának elkészítésén keresztül mutatjuk be. A Python nyelvben minden osztály (például a lista vagy a szótár is, de a függvények is). Egy `point2d.py` nevű fájlban kezdjük el az osztály kódjának elkészítését.
 - *Megoldás*: `08/point2d.py` - [link](08/point2d.py) (c) Siki Zoltán
 
-# 9.  gyakorlat
+# 9. gyakorlat
 Raspberry Pi: Python GPIO
 
 ## Feladat - Karakter kijelzés led mátrixra
@@ -277,8 +277,11 @@ Raspberry Pi: Python GPIO
 - *Megoldás*: `ip_display.py` - [link](09/ip_display.py)
 
 
-# 10.  gyakorlat
+# 10. gyakorlat
 OpenCV és képfeldolgozás `I.`
+
+# 11. gyakorlat
+GUI, grafikus felhasználói felület készítése `pyqt` és `pyqtgraph` segítségével.
 
 ## _Used sources_ / Felhasznált források
 - [Shannon Turner: Python lessons repository](https://github.com/shannonturner/python-lessons) MIT license (c) Shannon Turner 2013-2014
