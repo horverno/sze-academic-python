@@ -23,7 +23,7 @@ Az leckék többnyire magyar nyelvűek. :mortar_board:
 |10.| OpenCV és képfeldolgozás `I.` bevezető |  [előadás github](eload/ea10.ipynb) <br>[előadás jupyter](http://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/eload/ea10.ipynb) <br>[gyakorlat](gyak/gyak.md#10-gyakorlat)
 |11.| GUI, grafikus felhasználói felület készítése `pyqt` és `pyqtgraph` segítségével |  [előadás github](eload/ea11.ipynb) <br>[előadás jupyter](http://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/eload/ea11.ipynb) <br>[gyakorlat](gyak/gyak.md#11-gyakorlat)
 |+| Lineáris és homogén transzformációk | [előadás github](eload/ealeshtranszfromaciok.ipynb) <br>[előadás jupyter](http://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/eload/ealeshtranszfromaciok.ipynb)
-|+| Görbeillesztés | [előadás github](eload/eafitting.ipynb) <br>[előadás jupyter](http://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/eload/eafitting.ipynb)
+|+| Görbeillesztés | [előadás github](eload/eafitting.ipynb) <br>[előadás_jupyter](http://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/eload/eafitting.ipynb)
 
 ## _Used sources_ / Felhasznált források
 - [Shannon Turner: Python lessons repository](https://github.com/shannonturner/python-lessons) MIT license (c) Shannon Turner 2013-2014
