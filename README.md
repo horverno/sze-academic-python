@@ -22,6 +22,10 @@ Az leckék többnyire magyar nyelvűek. :mortar_board:
 |9.| Raspberry Pi: Python GPIO | [előadás github](eload/ea09.ipynb) <br>[előadás jupyter](http://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/eload/ea09.ipynb) <br>[gyakorlat](gyak/gyak.md#9-gyakorlat)
 |10.| OpenCV és képfeldolgozás `I.` bevezető |  [előadás github](eload/ea10.ipynb) <br>[előadás jupyter](http://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/eload/ea10.ipynb) <br>[gyakorlat](gyak/gyak.md#10-gyakorlat)
 |11.| GUI, grafikus felhasználói felület készítése `pyqt` és `pyqtgraph` segítségével |  [előadás github](eload/ea11.ipynb) <br>[előadás jupyter](http://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/eload/ea11.ipynb) <br>[gyakorlat](gyak/gyak.md#11-gyakorlat)
+|12.| Párhuzamos programozás|  [előadás github](eload/ea12.ipynb) <br>[előadás jupyter](http://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/eload/ea12.ipynb) <br>[gyakorlat](gyak/gyak.md#12-gyakorlat)
+|13.| Serialization (szerializálás): `JSON`, `XML`, `YAML`|  [előadás github](eload/ea13.ipynb) <br>[előadás jupyter](http://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/eload/ea13.ipynb) <br>[gyakorlat](gyak/gyak.md#13-gyakorlat)
+|+| TCP, UDP| [előadás github](eload/eatcpudp.ipynb) <br>[előadás jupyter](http://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/eload/eatcpudp.ipynb)
+|+| Bluetooth| [előadás github](eload/eabluetooth.ipynb) <br>[előadás jupyter](http://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/eload/eabluetooth.ipynb)
 |+| Lineáris és homogén transzformációk | [előadás github](eload/ealeshtranszfromaciok.ipynb) <br>[előadás jupyter](http://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/eload/ealeshtranszfromaciok.ipynb)
 |+| Görbeillesztés | [előadás github](eload/eafitting.ipynb) <br>[előadás_jupyter](http://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/eload/eafitting.ipynb)
 

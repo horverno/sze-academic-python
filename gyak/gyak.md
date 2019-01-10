@@ -1,3 +1,18 @@
+# Gyakorlatok
+- [1. gyakorlat](gyak.md#1-gyakorlat)
+- [2. gyakorlat](gyak.md#2-gyakorlat)
+- [3. gyakorlat](gyak.md#3-gyakorlat)
+- [4. gyakorlat](gyak.md#4-gyakorlat)
+- [5. gyakorlat](gyak.md#5-gyakorlat)
+- [6. gyakorlat](gyak.md#6-gyakorlat)
+- [7. gyakorlat](gyak.md#7-gyakorlat)
+- [8. gyakorlat](gyak.md#8-gyakorlat)
+- [9. gyakorlat](gyak.md#9-gyakorlat)
+- [10. gyakorlat](gyak.md#10-gyakorlat)
+- [11. gyakorlat](gyak.md#11-gyakorlat)
+- [12. gyakorlat](gyak.md#12-gyakorlat)
+- [13. gyakorlat](gyak.md#13-gyakorlat)
+
 # 1. gyakorlat
 Python bevezetés, Python 2 vs Python 3, IDE, egyszerű matematika, változók, szintaxis, és logika, ciklusok `I.`, string `I.`
 
@@ -282,6 +297,12 @@ OpenCV és képfeldolgozás `I.`
 
 # 11. gyakorlat
 GUI, grafikus felhasználói felület készítése `pyqt` és `pyqtgraph` segítségével.
+
+# 12. gyakorlat
+Párhuzamos programozás
+
+# 13. gyakorlat
+Serialization (szerializálás): `JSON`, `XML`, `YAML`
 
 ## _Used sources_ / Felhasznált források
 - [Shannon Turner: Python lessons repository](https://github.com/shannonturner/python-lessons) MIT license (c) Shannon Turner 2013-2014
