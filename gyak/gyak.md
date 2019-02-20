@@ -294,6 +294,15 @@ Raspberry Pi: Python GPIO
 
 # 10. gyakorlat
 OpenCV és képfeldolgozás `I.`
+## Feladat - Pénzérmék megszámlálása
+
+- Olvassunk be pénzekről készült képeket, és számoljuk meg, hány darab pénzérme található az egyes képeken.
+
+- *Megoldás*: `cv_penzermek.py` - [link](10/cv_penzermek.py) / `cv_penzermek.ipynb` - [link](10/cv_penzermek.ipynb) 
+
+- Így nézzen ki a plot:
+![img-penz01](10/ilyenlegyen01.png)
+
 
 # 11. gyakorlat
 GUI, grafikus felhasználói felület készítése `pyqt` és `pyqtgraph` segítségével.

@@ -19,7 +19,7 @@ Az leckék többnyire magyar nyelvűek. :mortar_board:
 |6.| Dict, tuple, kivételkezelés (try / except) | [előadás github](eload/ea06.ipynb) <br>[előadás jupyter](http://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/eload/ea06.ipynb) <br>[gyakorlat](gyak/gyak.md#6-gyakorlat)
 |7.| Függvények, pár további hasznos library (import from ... import ... as szintaktika, time, random, math, regex (regular expressions), os, sys, json) | [előadás github](eload/ea07.ipynb) <br>[előadás jupyter](http://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/eload/ea07.ipynb) <br>[gyakorlat](gyak/gyak.md#7-gyakorlat)
 |8.| Python: osztályok, objektum orientált programozás |[előadás github](eload/ea08.ipynb) <br>[előadás jupyter](http://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/eload/ea08.ipynb) <br>[gyakorlat](gyak/gyak.md#8-gyakorlat)
-|9.| Raspberry Pi: Python GPIO | [előadás github](eload/ea09.ipynb) <br>[előadás jupyter](http://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/eload/ea09.ipynb) <br>[gyakorlat](gyak/gyak.md#9-gyakorlat)
+|9.| Raspberry Pi: Python GPIO | [előadás github](eload/ea09.ipynb) <br>[előadás jupyter](http://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/eload/ea09.ipynb) <br>[gyakorlat](gyak/gyak.md#9-gyakorlat) [repository](https://github.com/horverno/sze-academic-rpi)
 |10.| OpenCV és képfeldolgozás `I.` bevezető |  [előadás github](eload/ea10.ipynb) <br>[előadás jupyter](http://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/eload/ea10.ipynb) <br>[gyakorlat](gyak/gyak.md#10-gyakorlat)
 |11.| GUI, grafikus felhasználói felület készítése `pyqt` és `pyqtgraph` segítségével |  [előadás github](eload/ea11.ipynb) <br>[előadás jupyter](http://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/eload/ea11.ipynb) <br>[gyakorlat](gyak/gyak.md#11-gyakorlat)
 |12.| Párhuzamos programozás|  [előadás github](eload/ea12.ipynb) <br>[előadás jupyter](http://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/eload/ea12.ipynb) <br>[gyakorlat](gyak/gyak.md#12-gyakorlat)
@@ -28,6 +28,9 @@ Az leckék többnyire magyar nyelvűek. :mortar_board:
 |+| Bluetooth| [előadás github](eload/eabluetooth.ipynb) <br>[előadás jupyter](http://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/eload/eabluetooth.ipynb)
 |+| Lineáris és homogén transzformációk | [előadás github](eload/ealeshtranszfromaciok.ipynb) <br>[előadás jupyter](http://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/eload/ealeshtranszfromaciok.ipynb)
 |+| Görbeillesztés | [előadás github](eload/eafitting.ipynb) <br>[előadás_jupyter](http://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/eload/eafitting.ipynb)
+|+| Git és GitHub alapok | [leírás](https://github.com/horverno/sze-academic-rpi/blob/master/gittut.md)
+
+
 
 ## _Used sources_ / Felhasznált források
 - [Shannon Turner: Python lessons repository](https://github.com/shannonturner/python-lessons) MIT license (c) Shannon Turner 2013-2014
