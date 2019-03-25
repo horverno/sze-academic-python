@@ -1,17 +1,20 @@
 # Gyakorlatok
-- [1. gyakorlat](gyak.md#1-gyakorlat)
-- [2. gyakorlat](gyak.md#2-gyakorlat)
-- [3. gyakorlat](gyak.md#3-gyakorlat)
-- [4. gyakorlat](gyak.md#4-gyakorlat)
-- [5. gyakorlat](gyak.md#5-gyakorlat)
-- [6. gyakorlat](gyak.md#6-gyakorlat)
-- [7. gyakorlat](gyak.md#7-gyakorlat)
-- [8. gyakorlat](gyak.md#8-gyakorlat)
-- [9. gyakorlat](gyak.md#9-gyakorlat)
-- [10. gyakorlat](gyak.md#10-gyakorlat)
-- [11. gyakorlat](gyak.md#11-gyakorlat)
-- [12. gyakorlat](gyak.md#12-gyakorlat)
-- [13. gyakorlat](gyak.md#13-gyakorlat)
+- [1. gyakorlat](#g01) - Python bevezetés, változók, szintaxis, boolean logika, ciklusok `I.`, string `I.`
+- [2. gyakorlat](#g02) - String `II.` (replace, find, count, lower, stb), feltételek (if, elif, else)
+- [3. gyakorlat](#g03) - Ciklusok `II.`, listák, join és split (string listává illetve fordítv
+- [4. gyakorlat](#g04) - Fájlok, flagek (r, w, b, +), szöveges formátumok, csv, matplotlib `I.`
+- [5. gyakorlat](#g05) - Hasznos külső library-k: matplotlib `II.`, numpy
+- [6. gyakorlat](#g06) - Dict, tuple, kivételkezelés (try / except)
+- [7. gyakorlat](#g07) - Függvények, pár további hasznos library (import, time, random, math, regex, os, sys, json)
+- [8. gyakorlat](#g08) - Osztályok, objektum orientált programozás
+- [9. gyakorlat](#g09) - Raspberry Pi: Python GPIO
+- [10. gyakorlat](#g10) - OpenCV és képfeldolgozás `I.` bevezető 
+- [11. gyakorlat](#g11) - GUI, grafikus felhasználói felület készítése `pyqt` és `pyqtgraph` segítségével
+- [12. gyakorlat](#g12) - Párhuzamos programozás
+- [13. gyakorlat](#g13) - Serialization (szerializálás): `JSON`, `XML`, `YAML`
+
+
+<a name="g01"></a>
 
 # 1. gyakorlat
 Python bevezetés, Python 2 vs Python 3, IDE, egyszerű matematika, változók, szintaxis, és logika, ciklusok `I.`, string `I.`
@@ -23,6 +26,7 @@ Python bevezetés, Python 2 vs Python 3, IDE, egyszerű matematika, változók, 
 ## Feladat - Bank
 - Írjunk programot, amely a lenti mondatokat írja ki, ciklus segítségével. 
 
+
 ```
 2018: 100.00 Ft van a bankban, 1.1-es kamattal
 2019: 110.00 Ft van a bankban, 1.1-es kamattal
@@ -32,6 +36,8 @@ Python bevezetés, Python 2 vs Python 3, IDE, egyszerű matematika, változók, 
 2023: 161.05 Ft van a bankban, 1.1-es kamattal
 ```
 - *Megoldás*: `01/bank.py` - [link](01/bank.py)
+
+<a name="g02"></a>
 
 # 2. gyakorlat
 String `II.` (replace, find, count, lower, stb), feltételek (if, elif, else)
@@ -115,6 +121,8 @@ Széchenyi István Egyetem, Győr
 ```
 - *Megoldás*: `02/szechenyi.py` - [link](02/szechenyi.py)
 
+<a name="g03"></a>
+
 # 3. gyakorlat
 Ciklusok `II.`, listák, join és split (string listává illetve fordítva)
 
@@ -163,6 +171,8 @@ A fentihez hasonlóan állítsd elő az alábbiakat:
 - Vágjunk szét egy sztringet a vesszök mentén
 - *Megoldás*: `03/split.py` - [link](03/split.py)
 
+<a name="g04"></a>
+
 # 4. gyakorlat
 Fájlok, flagek (r, w, b, +), szöveges formátumok, csv, matplotlib `I.`
 ## Feladat - Magyarország helységei plot
@@ -205,6 +215,8 @@ Fájlok, flagek (r, w, b, +), szöveges formátumok, csv, matplotlib `I.`
 ![img-03](04/ilyenlegyen03.png)
 - *Megoldás*: `04/moscatter.py` - [link](04/moscatter.py)
 
+<a name="g05"></a>
+
 # 5. gyakorlat
 Hasznos külső library-k: matplotlib `II.`, numpy
 
@@ -230,6 +242,8 @@ Hasznos külső library-k: matplotlib `II.`, numpy
 
 - [Megoldás](05/2.py)
 
+<a name="g06"></a>
+
 # 6. gyakorlat
 Dict, kivételkezelés (try / except) 
 
@@ -249,9 +263,12 @@ Dict, kivételkezelés (try / except)
 ![img-poke1](06/ilyenlegyen01.png)
 ![img-poke2](06/ilyenlegyen02.png)
 
+<a name="g07"></a>
 
 # 7. gyakorlat
 Függvények, pár további hasznos library (import from ... import ... as szintaktika, time, random, math, regex (regular expressions), os, sys, json)
+
+<a name="g08"></a>
 
 # 8. gyakorlat
 Python: osztályok, objektum orientált programozás
@@ -269,6 +286,8 @@ Készítsen Python osztályt római számok kezelésére. Az osztály példányo
 ## Feladat - 2d pontok
 - A Python objektum orientált programozást a 2D-s pontok osztályának elkészítésén keresztül mutatjuk be. A Python nyelvben minden osztály (például a lista vagy a szótár is, de a függvények is). Egy `point2d.py` nevű fájlban kezdjük el az osztály kódjának elkészítését.
 - *Megoldás*: `08/point2d.py` - [link](08/point2d.py) (c) Siki Zoltán
+
+<a name="g09"></a>
 
 # 9. gyakorlat
 Raspberry Pi: Python GPIO
@@ -291,6 +310,7 @@ Raspberry Pi: Python GPIO
 ## Feladat - IP cím kijelzése led mátrixra
 - *Megoldás*: `ip_display.py` - [link](09/ip_display.py)
 
+<a name="g10"></a>
 
 # 10. gyakorlat
 OpenCV és képfeldolgozás `I.`
@@ -298,17 +318,34 @@ OpenCV és képfeldolgozás `I.`
 
 - Olvassunk be pénzekről készült képeket, és számoljuk meg, hány darab pénzérme található az egyes képeken.
 
-- *Megoldás*: `cv_penzermek.py` - [link](10/cv_penzermek.py) / `cv_penzermek.ipynb` - [link](10/cv_penzermek.ipynb) 
+- *Megoldás*: `cv_penzermek.py` - [link](10/cv_penzermek.py) / `cv_penzermek.ipynb` - [link](10/cv_penzermek.ipynb) / [link2](https://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/gyak/10/cv_penzermek.ipynb)
 
 - Így nézzen ki a plot:
 ![img-penz01](10/ilyenlegyen01.png)
 
+## Feladat - Waldo
+
+- Olvassunk be Waldo képét és a mintát, majd keressük meg ratja Waldot.
+
+- Tipp: használjuk az OpenCV `matchTemplate` függvényét.
+
+- *Megoldás*: `waldo.py` - [link](10/waldo.py)
+
+- Így nézzen ki a plot:
+![img-waldo](10/ilyenlegyen02.png)
+
+
+<a name="g11"></a>
 
 # 11. gyakorlat
 GUI, grafikus felhasználói felület készítése `pyqt` és `pyqtgraph` segítségével.
 
+<a name="g12"></a>
+
 # 12. gyakorlat
 Párhuzamos programozás
+
+<a name="g13"></a>
 
 # 13. gyakorlat
 Serialization (szerializálás): `JSON`, `XML`, `YAML`
