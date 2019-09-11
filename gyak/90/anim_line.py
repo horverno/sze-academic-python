@@ -21,6 +21,19 @@ def animate_line(i):
     return [line]
 
 myAnimation = animation.FuncAnimation(fig, animate_line, 20, blit=True)
-# from matplotlib.animation import PillowWriter
-# myAnimation.save("line.gif", writer=PillowWriter(fps=24))
+
+"""
+# loopolt gif
+from matplotlib.animation import PillowWriter
+
+class LoopingPillowWriter(PillowWriter):
+    def finish(self):
+        self._frames[0].save(
+            self._outfile, save_all=True, append_images=self._frames[1:],
+            duration=int(1000 / self.fps), loop=0)
+
+
+myAnimation.save("line.gif", writer=LoopingPillowWriter(fps=24))
+"""
+
 plt.show()
