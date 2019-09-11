@@ -29,6 +29,7 @@ Az leckék többnyire magyar nyelvűek. :mortar_board:
 |+| Lineáris és homogén transzformációk | [előadás github](eload/ealeshtranszfromaciok.ipynb) <br>[előadás jupyter](http://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/eload/ealeshtranszfromaciok.ipynb)
 |+| Görbeillesztés | [előadás github](eload/eafitting.ipynb) <br>[előadás_jupyter](http://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/eload/eafitting.ipynb)
 |+| Valószínűségsszámítással összefüggő feladatok | [előadás github](eload/eavalszam.ipynb) <br>[előadás jupyter](http://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/eload/eavalszam.ipynb)
+|+| Animáció készítése | [előadás github](eload/eaanimation.ipynb) <br>[előadás jupyter](http://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/eload/eaanimation.ipynb)
 |+| Git és GitHub alapok | [leírás](https://github.com/horverno/sze-academic-rpi/blob/master/gittut.md)
 
 

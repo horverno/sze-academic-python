@@ -350,6 +350,12 @@ Párhuzamos programozás
 # 13. gyakorlat
 Serialization (szerializálás): `JSON`, `XML`, `YAML`
 
+# Egyéb gyakorlatok
+## Feladat - animáció
+![line](90/anim_line.gif)
+![circle](90/anim_circle.gif)
+
+
 ## _Used sources_ / Felhasznált források
 - [Shannon Turner: Python lessons repository](https://github.com/shannonturner/python-lessons) MIT license (c) Shannon Turner 2013-2014
 - [Siki Zoltán: Python mogyoróhéjban](http://www.agt.bme.hu/gis/python/python_oktato.pdf) GNU FDL license (c) Siki Zoltán
