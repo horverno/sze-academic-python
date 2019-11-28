@@ -31,6 +31,7 @@ Az leckék többnyire magyar nyelvűek. :mortar_board:
 |+| Valószínűségsszámítással összefüggő feladatok | [előadás github](eload/eavalszam.ipynb) <br>[előadás jupyter](http://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/eload/eavalszam.ipynb)
 |+| Animáció készítése | [előadás github](eload/eaanimation.ipynb) <br>[előadás jupyter](http://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/eload/eaanimation.ipynb)
 |+| 3D plot, graph, chart pythonnal | [előadás github](eload/ea3d.ipynb) <br>[előadás jupyter](http://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/eload/ea3d.ipynb)
+|+| Poligon, shapely | [előadás github](eload/eapoligon.ipynb) <br>[előadás jupyter](http://nbviewer.jupyter.org/github/horverno/sze-academic-python/blob/master/eload/eapoligon.ipynb)
 |+| Git és GitHub alapok | [leírás](https://github.com/horverno/sze-academic-rpi/blob/master/gittut.md)
 
 
