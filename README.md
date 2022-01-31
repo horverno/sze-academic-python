@@ -6,6 +6,11 @@ The lessons are mostly in hungarian._ :mortar_board:
 Ez az repository a Széchenyi István Egyetem (SZE) különböző Python leckékéit tartalmazza.
 Az leckék többnyire magyar nyelvűek. :mortar_board:
 
+Telepítés nélkül, weben is futtatható/szerkeszthető MyBinder segítségével:
+
+<a href="https://mybinder.org/v2/gh/horverno/sze-academic-python/HEAD"><img src="https://mybinder.org/badge_logo.svg" width=220/></a>
+
+
 ## Heti bontás
 
 |Hét | Tananyag | Link
