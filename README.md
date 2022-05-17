@@ -53,6 +53,7 @@ Telepítés nélkül, weben is futtatható/szerkeszthető MyBinder segítségév
 - [Code combat](https://codecombat.com/)
 - [Coursera Python](https://www.coursera.org/courses?languages=en&query=python)
 - [learnPython.org](https://www.learnpython.org/)
+- [ksimek.github.io/perspective_camera_toy.html](http://ksimek.github.io/perspective_camera_toy.html) - OpenCV és képfeldolgozás részhez
 
 ## _Courses at the university_ / Egyetemi tárgyak
 - `GKLB_INTM038` - Gépi látás
